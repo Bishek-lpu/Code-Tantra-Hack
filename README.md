@@ -18,3 +18,7 @@
   1. Run Tantra.pyc File
   2. Open Code Tantra Application
   3. Use above given options 
+
+## Features of Tantra.pyc Application
+  1. Nevigate One Window to another window
+  2. Past Source Code in Code Tantra Application 
